@@ -42,6 +42,8 @@ Memory Limit: 256 MB
 Source Limit: 1024 KB
 Marking Scheme: Marks are awarded if any testcase passes.
 Allowed Languages: Bash, C, C++, C++14, C++17, Clojure, C#, D, Erlang, F#, Go, Groovy, Haskell, Java, Java 8, JavaScript(Rhino), JavaScript(Node.js), Julia, Kotlin, Lisp, Lisp (SBCL), Lua, Objective-C, OCaml, Octave, Pascal, Perl, PHP, Python, Python 3, R(RScript), Racket, Ruby, Rust, Scala, Swift, Swift-4.1, TypeScript, Visual Basic
+
+Reference:- https://www.hackerearth.com/codearena/
  */
 
 import java.io.BufferedReader;
